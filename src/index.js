@@ -11,6 +11,6 @@ ReactDOM.render(
 
 //1. Apply CSS styles to App.js component
 //2. Extract the contact card as a reusable Card component.
-//3. Use props to render the default Beyonce contact card
+//3. Use props to render contact card
 //so the Card component can be reused for other contacts.
 //4. Import the contacts.js file to create card components.
