@@ -20,3 +20,5 @@ const contacts = [
     email: "ankita.r@india.com",
   },
 ];
+
+export default contacts;
